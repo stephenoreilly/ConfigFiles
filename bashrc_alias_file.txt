@@ -1,0 +1,18 @@
+alias v="vagrant"
+alias vs="vagrant ssh"
+alias vsh="vagrant ssh"
+alias vssh="vagrant ssh"
+alias vup="vagrant up"
+alias gitst="git status"
+alias gitre2="git rebase -i HEAD~2"
+alias cdv="cd Dev/Vodeclic"
+alias cdcb="cd Dev/ContentBackend"
+
+
+alias gits="git status"
+alias gs="git status"
+alias gitd="git diff"
+alias gd="git diff"
+alias gdiff="git diff"
+
+alias sub="sublime ."
